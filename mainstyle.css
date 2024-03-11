@@ -24,8 +24,8 @@ body {
 
 .navbar h2 {
     margin-left: 25px;
-    font-family: GoogleSansBold;
-    font-weight: bold;
+    font-family: GoogleSans;
+    font-weight: bolder;
 }
 
 .navbar ul {
