@@ -21,6 +21,8 @@ body {
     margin-left: 25px;
     font-family: GoogleSans;
     font-weight: bolder;
+    font-size: x-large;
+    margin-bottom: 5px;
 }
 
 .navbar ul {

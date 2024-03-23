@@ -1,0 +1,32 @@
+.content {
+    margin-left: 2%;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: xx-large;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: larger;
+    text-decoration: none;
+}
+
+.jmar, #yt {
+    margin-left: 4px;
+}
+
+.socimed a {
+    text-decoration: none;
+    color: #1fb1ff;
+}
+
+.dc {
+    margin-top: 5px;
+}
+
+.email a {
+    text-decoration: none;
+    color: #1fb1ff;
+}
