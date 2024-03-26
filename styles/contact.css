@@ -13,7 +13,7 @@ h2 {
     text-decoration: none;
 }
 
-.jmar, #yt {
+.jmar, #yt, #iga {
     margin-left: 4px;
 }
 
@@ -22,7 +22,11 @@ h2 {
     color: #1fb1ff;
 }
 
-.dc {
+.socimed div {
+    margin-top: 5px;
+}
+
+.ig, .dc {
     margin-top: 5px;
 }
 

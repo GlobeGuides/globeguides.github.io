@@ -36,12 +36,12 @@
 
 .items {
     margin-top: 3%;
+    width: 100%;
     display: flex;
-    justify-content: center; /* horizontally center */
-    align-items: center; /* vertically center */
-    text-align: center;
-    flex-direction: column; /* Stack items vertically */
-    user-select: none;
+    flex-direction: column;
+    gap: 16%;
+    justify-content: center;
+    align-items: center;
 }
 
 #item {

@@ -1,6 +1,6 @@
 @font-face {
     font-family: GoogleSans;
-    src: url(fonts/GoogleSans.TTF);
+    src: url(../../fonts/GoogleSans.TTF);
 }
 
 body {
@@ -42,6 +42,7 @@ body {
 .navbar .rightalign {
     float: right;
     background-color: #00273a;
+    margin-top: 0.5%;
 }
 
 .navbar #ralign {
@@ -72,4 +73,16 @@ body {
 .navbar li a:hover {
     background-color: #003f5e;
     transition: 200ms;
+}
+
+.content {
+    margin-left: 2%;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+.h2log {
+    font-size: small;
 }
